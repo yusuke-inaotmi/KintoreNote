@@ -61,7 +61,7 @@ class ViewController: UIViewController, FSCalendarDelegate, FSCalendarDataSource
         self.noteTableView.dataSource = self
         self.noteTableView.delegate = self
         
-        // ナビゲーションバーアイテムの色
+        // ナビゲーションバーアイテムの色を変更
         self.navigationController!.navigationBar.tintColor = .label
         // 戻るボタンを非表示
         self.navigationItem.hidesBackButton = true
