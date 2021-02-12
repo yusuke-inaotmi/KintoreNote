@@ -1,5 +1,5 @@
 ## About
-It is a simple muscle training recording app!  
+It's a simple muscle training recording app!  
 Select the date, part, and event and save the record of that day.  
 Add your own event for each part!  
 Use past records to improve your training quality!  
