@@ -7,5 +7,5 @@ Use past records to improve your training quality!
 - List the contents of training.
 - Register your original training event.
 
-筋トレノート | カレンダーに筋トレを記録
+筋トレノート | カレンダーに筋トレを記録  
 [https://apple.co/3pcTFki](https://apple.co/3pcTFki)
